@@ -1,7 +1,12 @@
 
-<h4 align="center">  Hi there 👋, I'm Yasin! <h4/>
-
+<h4 align="center">   Hi there 👋, I'm Yasin! <h4/>
 <div align=center>
+    
+## About Me 
+<h4 align="center">  I am a 2nd year student at Trakya University Computer Engineering. When I started university, I turned to the field of IOS mobile application development. I have been working diligently to improve myself in this field for about two years. I can make intermediate online/offline applications and I improve myself in this field more and more everyday. I am a practical and solution-oriented person who is prone to teamwork, follows technology and updates, is eager to learn new things, can grasp quickly and easily. <h4/>
+    
+
+
 <table>
     <tr>
         <td colspan="8">
