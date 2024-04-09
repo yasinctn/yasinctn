@@ -3,7 +3,7 @@
 <div align=center>
     
 ## About Me 
-<h4 align="center">  I am a 3rd year student at Trakya University Computer Engineering. When I started university, I turned to the field of IOS mobile application development. I have been working diligently to improve myself in this field for about two years. I can make intermediate online/offline applications and I improve myself in this field more and more everyday. I am a practical and solution-oriented person who is prone to teamwork, follows technology and updates, is eager to learn new things, can grasp quickly and easily. <h4/>
+<h4 align="center">  I am a third-year computer engineering student at Trakya University. Here I share some of my projects that I have developed. With a keen ability to quickly grasp new concepts and technologies, I am continuously evolving and adapting to meet the demands of the ever-changing landscape. My focus on results, coupled with a growing proficiency in data analysis, enables me to effectively implement innovative solutions. Motivated by a passion for growth and improvement, I approach each challenge with enthusiasm and determination. <h4/>
     
 
 
