@@ -3,7 +3,7 @@
 <div align=center>
     
 ## About Me 
-<h4 align="center">  I am a third-year computer engineering student at Trakya University. Here I share some of my projects that I have developed. With a keen ability to quickly grasp new concepts and technologies, I am continuously evolving and adapting to meet the demands of the ever-changing landscape. My focus on results, coupled with a growing proficiency in data analysis, enables me to effectively implement innovative solutions. Motivated by a passion for growth and improvement, I approach each challenge with enthusiasm and determination. <h4/>
+<h4 align="center">  I am a last year computer engineering student at Trakya University. Here I share some of my projects that I have developed. With a keen ability to quickly grasp new concepts and technologies, I am continuously evolving and adapting to meet the demands of the ever-changing landscape. My focus on results, coupled with a growing proficiency in data analysis, enables me to effectively implement innovative solutions. Motivated by a passion for growth and improvement, I approach each challenge with enthusiasm and determination. <h4/>
     
 
 
