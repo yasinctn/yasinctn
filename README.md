@@ -31,10 +31,12 @@
     </tr>
         <tr>
         <td colspan="8">
+        <img src="https://img.icons8.com/color/480/000000/kotlin.png" width=50></a> 
+        <img src="https://img.icons8.com/color/480/000000/flutter.png" width=50></a> 
+        <img src="https://img.icons8.com/color/480/000000/figma.png" width=50></a> 
         <img src="https://img.icons8.com/color/480/000000/c.png" width=50></a>     
         <img src="https://img.icons8.com/color/480/000000/python.png" width=50></a>
         <img src="https://img.icons8.com/color/480/000000/visual-studio-code-2019.png" width=50></a>
-        <img src="https://img.icons8.com/color/480/000000/adobe-photoshop.png" width=50></a>  
         </td>
     </tr>
 </table>
