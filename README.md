@@ -3,7 +3,17 @@
 <div align=center>
     
 ## About Me 
-<h4 align="center">  I am a last year computer engineering student at Trakya University. Here I share some of my projects that I have developed. With a keen ability to quickly grasp new concepts and technologies, I am continuously evolving and adapting to meet the demands of the ever-changing landscape. My focus on results, coupled with a growing proficiency in data analysis, enables me to effectively implement innovative solutions. Motivated by a passion for growth and improvement, I approach each challenge with enthusiasm and determination. <h4/>
+<h4 align="center">  I was born in Istanbul in 2003. I graduated from Trakya University's Computer Engineering
+department in 2025. At university, I focused on mobile application development. I develop
+native iOS applications using Swift, UIKit, and SwiftUI. I am experienced in application
+development using MVVM design pattern, Firebase, and RESTful APIs. I am also proficient in
+training and integrating artificial intelligence models using CoreML. I have worked on various
+projects, including management panels with different user roles, order management systems,
+e-commerce applications, artificial intelligence-supported health applications, and a
+hairdresser appointment application with map integration. As someone who closely follows
+technological developments, I am always eager to learn and use new things. I am a team
+player, a quick learner, disciplined, and responsible. I am passionate about my work and
+prioritize developing practical solutions. <h4/>
     
 
 
@@ -55,9 +65,10 @@
 
 ## Pinned Repos 🤓
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=dracula&repo=NutriWise)](https://github.com/yasinctn/NutriWise)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=dracula&repo=Pigeon)](https://github.com/yasinctn/Pigeon)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=dracula&repo=HaritalarUygulamasi)](https://github.com/yasinctn/HaritalarUygulamasi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=dracula&repo=FlashFy)](https://github.com/yasinctn/FlashFy)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=dracula&repo=WeatherApp)](https://github.com/yasinctn/WeatherApp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=dracula&repo=BMICalculator)](https://github.com/yasinctn/BMICalculator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=dracula&repo=FlashFy)](https://github.com/yasinctn/FlashFy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=dracula&repo=HaritalarUygulamasi)](https://github.com/yasinctn/HaritalarUygulamasi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=dracula&repo=GiorgioByMoroder)](https://github.com/yasinctn/GiorgioByMoroder)
