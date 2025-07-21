@@ -65,7 +65,9 @@ prioritize developing practical solutions. <h4/>
 
 ## Pinned Repos 🤓
 
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=dracula&repo=NutriWise)](https://github.com/yasinctn/NutriWise)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=dracula&repo=Stilist)](https://github.com/yasinctn/Stilist)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=dracula&repo=Pigeon)](https://github.com/yasinctn/Pigeon)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=dracula&repo=FlashFy)](https://github.com/yasinctn/FlashFy)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=dracula&repo=WeatherApp)](https://github.com/yasinctn/WeatherApp)
