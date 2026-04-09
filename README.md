@@ -47,11 +47,11 @@
 
 <div align="center">
 
-![Yasin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasinctn&show_icons=true&theme=tokyonight)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yasinctn&theme=tokyonight)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinctn&theme=tokyonight&layout=compact&exclude_repo=github-readme-stats,yasinctn.github.io)](https://github.com/yasinctn/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=yasinctn&show_icons=true&theme=tokyonight" alt="Yasin's GitHub stats" />
+<br/>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yasinctn&theme=tokyonight" alt="GitHub Streak" /></a>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinctn&theme=tokyonight&layout=compact&exclude_repo=github-readme-stats,yasinctn.github.io" alt="Top Langs" />
 
 </div>
 
@@ -61,14 +61,14 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=tokyonight&repo=NutriWise)](https://github.com/yasinctn/NutriWise)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=tokyonight&repo=Stilist)](https://github.com/yasinctn/Stilist)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=tokyonight&repo=Pigeon)](https://github.com/yasinctn/Pigeon)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=tokyonight&repo=FlashFy)](https://github.com/yasinctn/FlashFy)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=tokyonight&repo=WeatherApp)](https://github.com/yasinctn/WeatherApp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=tokyonight&repo=BMICalculator)](https://github.com/yasinctn/BMICalculator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=tokyonight&repo=HaritalarUygulamasi)](https://github.com/yasinctn/HaritalarUygulamasi)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=tokyonight&repo=GiorgioByMoroder)](https://github.com/yasinctn/GiorgioByMoroder)
+<a href="https://github.com/yasinctn/NutriWise"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=tokyonight&repo=NutriWise" alt="NutriWise" /></a>
+<a href="https://github.com/yasinctn/Stilist"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=tokyonight&repo=Stilist" alt="Stilist" /></a>
+<a href="https://github.com/yasinctn/Pigeon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=tokyonight&repo=Pigeon" alt="Pigeon" /></a>
+<a href="https://github.com/yasinctn/FlashFy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=tokyonight&repo=FlashFy" alt="FlashFy" /></a>
+<a href="https://github.com/yasinctn/WeatherApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=tokyonight&repo=WeatherApp" alt="WeatherApp" /></a>
+<a href="https://github.com/yasinctn/BMICalculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=tokyonight&repo=BMICalculator" alt="BMICalculator" /></a>
+<a href="https://github.com/yasinctn/HaritalarUygulamasi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=tokyonight&repo=HaritalarUygulamasi" alt="HaritalarUygulamasi" /></a>
+<a href="https://github.com/yasinctn/GiorgioByMoroder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=tokyonight&repo=GiorgioByMoroder" alt="GiorgioByMoroder" /></a>
 
 </div>
 
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yasinctn03)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasinctn/)
+<a href="https://twitter.com/yasinctn03"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://www.linkedin.com/in/yasinctn/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
