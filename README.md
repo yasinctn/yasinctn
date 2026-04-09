@@ -45,32 +45,24 @@
 
 ## GitHub Stats
 
-<div align="center">
+![Yasin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasinctn&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api?username=yasinctn&show_icons=true&theme=tokyonight" alt="Yasin's GitHub stats" />
-<br/>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yasinctn&theme=tokyonight" alt="GitHub Streak" /></a>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinctn&theme=tokyonight&layout=compact&exclude_repo=github-readme-stats,yasinctn.github.io" alt="Top Langs" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yasinctn&theme=tokyonight)](https://git.io/streak-stats)
 
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinctn&theme=tokyonight&layout=compact&exclude_repo=github-readme-stats,yasinctn.github.io)
 
 ---
 
 ## Pinned Repos
 
-<div align="center">
-
-<a href="https://github.com/yasinctn/NutriWise"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=tokyonight&repo=NutriWise" alt="NutriWise" /></a>
-<a href="https://github.com/yasinctn/Stilist"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=tokyonight&repo=Stilist" alt="Stilist" /></a>
-<a href="https://github.com/yasinctn/Pigeon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=tokyonight&repo=Pigeon" alt="Pigeon" /></a>
-<a href="https://github.com/yasinctn/FlashFy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=tokyonight&repo=FlashFy" alt="FlashFy" /></a>
-<a href="https://github.com/yasinctn/WeatherApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=tokyonight&repo=WeatherApp" alt="WeatherApp" /></a>
-<a href="https://github.com/yasinctn/BMICalculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=tokyonight&repo=BMICalculator" alt="BMICalculator" /></a>
-<a href="https://github.com/yasinctn/HaritalarUygulamasi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=tokyonight&repo=HaritalarUygulamasi" alt="HaritalarUygulamasi" /></a>
-<a href="https://github.com/yasinctn/GiorgioByMoroder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=tokyonight&repo=GiorgioByMoroder" alt="GiorgioByMoroder" /></a>
-
-</div>
+[![NutriWise](https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=tokyonight&repo=NutriWise)](https://github.com/yasinctn/NutriWise)
+[![Stilist](https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=tokyonight&repo=Stilist)](https://github.com/yasinctn/Stilist)
+[![Pigeon](https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=tokyonight&repo=Pigeon)](https://github.com/yasinctn/Pigeon)
+[![FlashFy](https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=tokyonight&repo=FlashFy)](https://github.com/yasinctn/FlashFy)
+[![WeatherApp](https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=tokyonight&repo=WeatherApp)](https://github.com/yasinctn/WeatherApp)
+[![BMICalculator](https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=tokyonight&repo=BMICalculator)](https://github.com/yasinctn/BMICalculator)
+[![HaritalarUygulamasi](https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=tokyonight&repo=HaritalarUygulamasi)](https://github.com/yasinctn/HaritalarUygulamasi)
+[![GiorgioByMoroder](https://github-readme-stats.vercel.app/api/pin/?username=yasinctn&theme=tokyonight&repo=GiorgioByMoroder)](https://github.com/yasinctn/GiorgioByMoroder)
 
 ---
 
